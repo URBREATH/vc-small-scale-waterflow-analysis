@@ -1,7 +1,7 @@
 {
   "name": "terrainAnalysis",
-  "allowCatalogueRegistry": false,
-  "catalogueEndpoint": "https://urbreath.virtualcitymap.de/minioproxy",
+  "allowCatalogueRegistry": true,
+  "catalogueEndpoint": "https://urbreath.virtualcitymap.de/idraproxy/api/datasetngsi",
   "allowMinioUpload": true,
   "minioEndpoint": "https://urbreath.virtualcitymap.de/minioproxy",
   "minioBucketName": "vcs-analysis",
